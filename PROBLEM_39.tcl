@@ -1,3 +1,7 @@
+#Create a function in TCL to find all the Armstrong numbers in a given list.
+#An Armstrong number is a number whose sum of the cube of its digits is equal to the number itself.
+#	Example: 153 is an Armstrong number because 1^3 + 5^3 + 3^3 --> 1 + 125 + 27 = 153
+
 proc armstrong_number {num_list} {
 	set count 	0
 	set number 	0
