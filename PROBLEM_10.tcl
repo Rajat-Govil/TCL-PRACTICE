@@ -1,4 +1,4 @@
-#Given a list L1 containing several sublists. Find the longest and shortest sublists.
+#Given a list "lst" containing several sublists. Find the longest and shortest sublists.
 set lst {{ICC2 SYNOPSYS APRISA SIEMENS CADENCE INNOVUS} {rgnd 45.36} {metals M1 M2 M3} {V12 V23 V34 V45 vias}}
 
 puts "Original list: $lst\n"
